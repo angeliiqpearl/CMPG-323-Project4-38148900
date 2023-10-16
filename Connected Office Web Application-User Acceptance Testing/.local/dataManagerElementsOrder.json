@@ -15,6 +15,26 @@
       "ArgumentsSectionElementsOrder": [],
       "ConstantsSectionElementsOrder": [],
       "AddedNamespaces": null
+    },
+    {
+      "Path": "UserLogin.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "credentials&Sequence_2"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "CreateNewRecord.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "dt_CustomerDetails&Sequence_1"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
     }
   ]
 }
