@@ -11,7 +11,16 @@
     {
       "Path": "Main.xaml",
       "SortBy": 0,
-      "VariablesSectionElementsOrder": [],
+      "VariablesSectionElementsOrder": [
+        "dt_OrderDetails&Sequence_1",
+        "orderDate&Sequence_1",
+        "dt_Orders&Sequence_1",
+        "dt_Products&Sequence_1",
+        "variable3&Sequence_3",
+        "dt_Customers&Sequence_1",
+        "loginPassword&Sequence_1",
+        "loginEmail&Sequence_1"
+      ],
       "ArgumentsSectionElementsOrder": [],
       "ConstantsSectionElementsOrder": [],
       "AddedNamespaces": null
@@ -20,9 +29,13 @@
       "Path": "UserLogin.xaml",
       "SortBy": 0,
       "VariablesSectionElementsOrder": [
-        "credentials&Sequence_2"
+        "WebPage&Sequence_1",
+        "loginPassword&Sequence_1",
+        "loginEmail&Sequence_1"
       ],
-      "ArgumentsSectionElementsOrder": [],
+      "ArgumentsSectionElementsOrder": [
+        "web1"
+      ],
       "ConstantsSectionElementsOrder": [],
       "AddedNamespaces": null
     },
@@ -30,9 +43,12 @@
       "Path": "CreateNewRecord.xaml",
       "SortBy": 0,
       "VariablesSectionElementsOrder": [
+        "WebPage&Sequence_1",
         "dt_CustomerDetails&Sequence_1"
       ],
-      "ArgumentsSectionElementsOrder": [],
+      "ArgumentsSectionElementsOrder": [
+        "web"
+      ],
       "ConstantsSectionElementsOrder": [],
       "AddedNamespaces": null
     }
