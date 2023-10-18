@@ -12,6 +12,7 @@
       "Path": "Main.xaml",
       "SortBy": 0,
       "VariablesSectionElementsOrder": [
+        "TestResults&Sequence_1",
         "dt_OrderDetails&Sequence_1",
         "orderDate&Sequence_1",
         "dt_Orders&Sequence_1",
