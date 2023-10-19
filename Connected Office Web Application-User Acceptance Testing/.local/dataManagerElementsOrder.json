@@ -25,33 +25,6 @@
       "ArgumentsSectionElementsOrder": [],
       "ConstantsSectionElementsOrder": [],
       "AddedNamespaces": null
-    },
-    {
-      "Path": "UserLogin.xaml",
-      "SortBy": 0,
-      "VariablesSectionElementsOrder": [
-        "WebPage&Sequence_1",
-        "loginPassword&Sequence_1",
-        "loginEmail&Sequence_1"
-      ],
-      "ArgumentsSectionElementsOrder": [
-        "web1"
-      ],
-      "ConstantsSectionElementsOrder": [],
-      "AddedNamespaces": null
-    },
-    {
-      "Path": "CreateNewRecord.xaml",
-      "SortBy": 0,
-      "VariablesSectionElementsOrder": [
-        "WebPage&Sequence_1",
-        "dt_CustomerDetails&Sequence_1"
-      ],
-      "ArgumentsSectionElementsOrder": [
-        "web"
-      ],
-      "ConstantsSectionElementsOrder": [],
-      "AddedNamespaces": null
     }
   ]
 }
