@@ -9,5 +9,18 @@
 4. Executes order CRUD operations.
 5. Executes order detail CRUD operations.
 6. Logs out of the database.
+
+**CRUD testing is performed by creating a customer record after logging in, and then performing all CRUD operations on that record before creating another customer record. The same process is repeated for products, orders, and order details.**
    
 **Error Handling**: If the system encounters an error during login, the user must stop the process and restart it.
+
+                                                MAIN SEQUENCE
+``` mermaid
+flowchart
+A[User Login] --> B[CustomerCRUD operations]
+B --> C[Products CRUD Operations]
+C --> D[Orders CRUD Operations]
+D --> E[Order details CRUD operations]
+E --> F[User Logout]
+
+```
